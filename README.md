@@ -1,0 +1,2 @@
+# Useful Scripts by MyOPECS
+This repositories contains multiple short-scripts to do small things. These scripts are written by MyOPECS Committee and Offficial Members. We shared any languages that do anything. Some of these scripts are used in our Red Team and Security Research Team department.
