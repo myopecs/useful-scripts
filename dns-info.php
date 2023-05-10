@@ -2,7 +2,7 @@
 /*
 Written by Mr Hery
 
-CLI
+PHP CLI
 */
 
 if(!isset($argv[1])){
